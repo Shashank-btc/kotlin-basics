@@ -5,33 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2104e9-85c5-4736-9e0e-7fa31462b2ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../basic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnyType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Const.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConvertDataType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MathOp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PlusOpeartor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringEquality.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfStatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListDestructring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LogicalOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TurnaryIfElse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -53,61 +39,61 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VbgfqHZ6sVfrUrxaNMKx3fgK6N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\shashank\Kotlin-Basics\sample\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ConvertDataTypeKt">
-    <configuration name="ConvertDataTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertDataTypeKt" />
+  <component name="RunManager" selected="Kotlin.ListDestructringKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="sample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathOpKt" />
+    <configuration name="ListDestructringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListDestructringKt" />
       <module name="sample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusOpeartorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlusOpeartorKt" />
+    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListKt" />
       <module name="sample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEqualityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringEqualityKt" />
+    <configuration name="MutableListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutableListKt" />
       <module name="sample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsKt" />
+    <configuration name="WhenExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenExpressionKt" />
       <module name="sample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ConvertDataTypeKt" />
-        <item itemvalue="Kotlin.PlusOpeartorKt" />
-        <item itemvalue="Kotlin.MathOpKt" />
-        <item itemvalue="Kotlin.StringEqualityKt" />
-        <item itemvalue="Kotlin.StringsKt" />
+        <item itemvalue="Kotlin.ListDestructringKt" />
+        <item itemvalue="Kotlin.MutableListKt" />
+        <item itemvalue="Kotlin.ListKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.WhenExpressionKt" />
       </list>
     </recent_temporary>
   </component>
